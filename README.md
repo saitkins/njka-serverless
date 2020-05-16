@@ -11,9 +11,6 @@ E-commerce store
 <img src="http://i.imgur.com/00So8Ua.png" />
 
 
-## Splash Preview
-<img src="http://i.imgur.com/wuHyw50.png" />
-
 ## SETUP:
   - `npm i` || `yarn` to install dependencies
   - `npm start` for development server

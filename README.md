@@ -8,7 +8,7 @@ E-commerce store
   - The rest of the app sits on **React.js** & **React Router*(V3)** (with Code splitting), **Redux** & **Redux Persist** (with WebStorage).
 
 ## Cloud Architecture
-<img src="http://i.imgur.com/00So8Ua.png" />
+<img src="1.png" />
 
 
 ## SETUP:

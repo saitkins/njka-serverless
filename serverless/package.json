@@ -35,7 +35,7 @@
     "graphql": "^0.9.6",
     "jsonwebtoken": "^7.4.3",
     "moment": "^2.18.1",
-    "mongoose": "^4.9.7",
+    "mongoose": "^5.7.5",
     "mongoose-deep-populate": "^3.0.0",
     "request": "^2.81.0",
     "serverless-plugin-graphiql": "^0.3.0",
